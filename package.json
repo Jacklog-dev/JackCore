@@ -1,0 +1,21 @@
+{
+  "name": "de.jacklog.core",
+  "version": "0.0.1",
+  "displayName": "JackCore",
+  "description": "Core and Utility Modules",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "dependencies": {
+    "de.jacklog.statemachine": "0.0.1"
+  },
+  "keywords": [
+    "core",
+    "util",
+    "jacklog"
+  ],
+  "author": {
+    "name": "Jack",
+    "email": "dev@jacklog.de",
+    "url": "https://jacklog.de"
+  }
+}
