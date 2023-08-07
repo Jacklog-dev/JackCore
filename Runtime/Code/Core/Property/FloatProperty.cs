@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Core.Property
 {
-    [CreateAssetMenu(fileName = "FloatProperty", menuName = "Core/Property/FloatProperty", order = 0)]
+    [CreateAssetMenu(fileName = "FloatProperty", menuName = "JackCore/Property/FloatProperty")]
     public class FloatProperty : ScriptableProperty<float>
     {
     }

@@ -1,6 +1,6 @@
 {
   "name": "de.jacklog.core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "JackCore",
   "description": "Core and Utility Modules",
   "unity": "2021.3",

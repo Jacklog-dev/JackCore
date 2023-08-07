@@ -5,7 +5,8 @@ using UnityEngine;
 
 namespace Core.Event
 {
-    [CreateAssetMenu]
+    
+    [CreateAssetMenu(fileName = "GameEvent", menuName = "JackCore/Event/GameEvent")]
     public class GameEvent : ScriptableObject
     {
         private readonly List<GameEventListener> _listeners = new List<GameEventListener>();
